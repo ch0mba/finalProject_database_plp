@@ -1,0 +1,28 @@
+[
+    {
+      "plate_number": "KDG 123A",
+      "type": "Truck",
+      "capacity": 5000
+    },
+    {
+      "plate_number": "KBX 456B",
+      "type": "Van",
+      "capacity": 1200
+    },
+    {
+      "plate_number": "KCT 789C",
+      "type": "Lorry",
+      "capacity": 8000
+    },
+    {
+      "plate_number": "KDE 111D",
+      "type": "Pickup",
+      "capacity": 1000
+    },
+    {
+      "plate_number": "KCH 222E",
+      "type": "Truck",
+      "capacity": 6000
+    }
+  ]
+  

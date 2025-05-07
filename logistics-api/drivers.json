@@ -1,0 +1,28 @@
+[
+    {
+      "name": "John Mwangi",
+      "license_number": "DL-001122",
+      "phone_number": "0712345678"
+    },
+    {
+      "name": "Grace Wanjiku",
+      "license_number": "DL-003344",
+      "phone_number": "0722345678"
+    },
+    {
+      "name": "Samuel Otieno",
+      "license_number": "DL-005566",
+      "phone_number": "0733345678"
+    },
+    {
+      "name": "Peter Kamau",
+      "license_number": "DL-007788",
+      "phone_number": "0744345678"
+    },
+    {
+      "name": "Mercy Achieng",
+      "license_number": "DL-009900",
+      "phone_number": "0755345678"
+    }
+  ]
+  

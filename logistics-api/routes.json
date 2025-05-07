@@ -1,0 +1,33 @@
+[
+    {
+      "vehicle_id": 1,
+      "start_location": "Nairobi",
+      "end_location": "Mombasa",
+      "route_distance": 480
+    },
+    {
+      "vehicle_id": 2,
+      "start_location": "Nakuru",
+      "end_location": "Eldoret",
+      "route_distance": 160
+    },
+    {
+      "vehicle_id": 3,
+      "start_location": "Kisumu",
+      "end_location": "Bungoma",
+      "route_distance": 110
+    },
+    {
+      "vehicle_id": 4,
+      "start_location": "Thika",
+      "end_location": "Nyeri",
+      "route_distance": 140
+    },
+    {
+      "vehicle_id": 5,
+      "start_location": "Kitale",
+      "end_location": "Lodwar",
+      "route_distance": 400
+    }
+  ]
+  
