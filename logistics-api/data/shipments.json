@@ -1,0 +1,7 @@
+{
+  "sender": "Alice",
+  "receiver": "Bob",
+  "address": "123 Main St",
+  "status": "In Transit",
+  "delivery_date": "2025-05-10"
+}
