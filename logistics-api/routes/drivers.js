@@ -10,7 +10,21 @@ const drivers = [
 
 
 router.get('/', (req, res) => {
+    console.log(drivers);
     res.send('List of drivers');
+});
+
+
+router.post('/', (req, res) => {
+    console.log("posting driver");
+
+    console.log(req.body);
+
+    const drivers = res.body;
+
+    drivers.push();
+
+    res.send(`Driver ${drivers.name} added`);
 });
 
 export default router;
