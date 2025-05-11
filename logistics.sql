@@ -3,6 +3,7 @@
 
 -- The script assumes you are using MySQL or a compatible database system.
 -- Make sure to adjust the database connection settings as needed.
+DROP DATABASE IF EXISTS logisticsdb;
 CREATE DATABASE logisticsdb;
 
 -- Use the created database
